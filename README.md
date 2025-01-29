@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Cecilia Sjögren
-- 🌱 I’m currently learning in an extension course via Lexicon Yrkesubildningar where I'm learning .NET 
 
 - 📫 www.linkedin.com/in/cecilia-sjögren
 
